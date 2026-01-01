@@ -11,8 +11,8 @@
 
 ## 2. Dataset Description
 - this project used 2 dataset taken from github (covid_19_india.csv/covid_vaccine_statewise.csv)
-- covid_19_india.csv have 5 colums and file size is 800kb
-- covid_vaccine_statewise.csv have 24 colums and file size is 1.5Mb
+- covid_19_india.csv have 5 rows and file size is 800kb
+- covid_vaccine_statewise.csv have 24 rows and file size is 1.5Mb
 
 ## 3. Data Cleaning
 - Droping unwanted columns
